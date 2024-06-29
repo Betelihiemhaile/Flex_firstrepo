@@ -2,8 +2,9 @@
 
 
 # project
+BETH BETTY BETHLEHEM
 ## Data Overview
-This project use data from the Titanic Dataset to analyze survival rate. The data has 13 columns and 300 observation.
+This project uses data from the Titanic Dataset to analyze survival rate. The data has 13 columns and 300 observations.
  
  [My Life](Mylife.com)
 
